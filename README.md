@@ -1,7 +1,7 @@
 ![LaTeX Symbols Logo](icons/favicon-128.png?raw=true)
 
 # About
-A Chrome extension that automatically replaces LaTeX commands in forms with their unicode equivalent.
+A Chrome extension that automatically replaces LaTeX commands in forms with their unicode equivalent. Helpful for science/math essays and online calculators.
 
 ## Install
 1. Download the [latest release](https://github.com/maxwellmlin/latex-symbols/releases) and unzip the file
