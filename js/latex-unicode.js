@@ -1,5 +1,3 @@
-// https://github.com/ViktorQvarfordt/unicode-latex
-
 latex_unicode = {
   "\\mathexclam": "!",
   "\\mathoctothorpe": "#",
