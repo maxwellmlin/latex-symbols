@@ -14,9 +14,6 @@ The extension automatically replaces LaTeX commands in input fields with their u
 For a full list of supported commands visit this [file](https://raw.githubusercontent.com/maxwellmlin/latex-symbols/main/js/latex-unicode.js?token=AG4TIGFNSYPH6CCBDMCUXQTA2YKBE)
 
 ## Acknowledgements
-jQuery  
-Milligram  
-
-Toggle Switch CSS - W3Schools: https://www.w3schools.com/howto/howto_css_switch.asp  
-Unicode LaTeX JSON Mapping - ViktorQvarfordt: https://github.com/ViktorQvarfordt/unicode-latex  
-LaTeX CSS - Theresa O’Connor: https://tess.oconnor.cx/2007/08/tex-poshlet  
+(jQuery)[https://jquery.com/]  
+(Milligram)[http://milligram.io/]  
+(ViktorQvarfordt)[https://github.com/ViktorQvarfordt/unicode-latex]
