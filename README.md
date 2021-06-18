@@ -1,4 +1,4 @@
-# LaTeX Symbols
+# About
 Automatically replace LaTeX commands with their unicode equivalent
 
 ## Acknowledgements:
