@@ -1,0 +1,27 @@
+{
+  "name": "LaTeX Symbols",
+  "description": "Automatically replace LaTeX commands with their unicode equivalent",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "background": {
+    "service_worker": "/background.js"
+  },
+
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["/js/jquery-3.6.0.slim.min.js", "/js/latex-unicode.js", "/js/main.js"]
+  }],
+
+  "action": {
+    "default_popup": "/popup.html",
+    "default_icon": {
+      "16": "/icons/favicon-16.png",
+      "32": "/icons/favicon-32.png",
+      "48": "/icons/favicon-48.png",
+      "128": "/icons/favicon-128.png"
+    }
+  },
+
+  "permissions": ["storage"]
+}
