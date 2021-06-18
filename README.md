@@ -3,20 +3,20 @@
 # About
 A Chrome extension that automatically replaces LaTeX commands in forms with their unicode equivalent.
 
-# Install
+## Install
 1. Download the [latest release](https://github.com/maxwellmlin/latex-symbols/releases) and unzip the file
 2. Go to chrome://extensions
 3. Click `load unpacked` and select the unzipped file
 
-# Usage
+## Usage
 The extension automatically replaces LaTeX commands in input fields with their unicode equivalent. For example `\alpha` becomes `α` and `\Sigma` becomes `Σ`.
 
 For a full list of supported commands visit this [file](https://raw.githubusercontent.com/maxwellmlin/latex-symbols/main/js/latex-unicode.js?token=AG4TIGFNSYPH6CCBDMCUXQTA2YKBE)
 
-## Acknowledgements:
+## Acknowledgements
 jQuery  
 Milligram  
 
 Toggle Switch CSS - W3Schools: https://www.w3schools.com/howto/howto_css_switch.asp  
-Unicode LaTeX - ViktorQvarfordt: https://github.com/ViktorQvarfordt/unicode-latex  
+Unicode LaTeX JSON Mapping - ViktorQvarfordt: https://github.com/ViktorQvarfordt/unicode-latex  
 LaTeX CSS - Theresa O’Connor: https://tess.oconnor.cx/2007/08/tex-poshlet  
