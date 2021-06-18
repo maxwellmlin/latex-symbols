@@ -14,6 +14,6 @@ The extension automatically replaces LaTeX commands in input fields with their u
 For a full list of supported commands visit this [file](https://raw.githubusercontent.com/maxwellmlin/latex-symbols/main/js/latex-unicode.js?token=AG4TIGFNSYPH6CCBDMCUXQTA2YKBE)
 
 ## Acknowledgements
-(jQuery)[https://jquery.com/]  
-(Milligram)[http://milligram.io/]  
-(ViktorQvarfordt)[https://github.com/ViktorQvarfordt/unicode-latex]
+[jQuery](https://jquery.com/)  
+[Milligram](http://milligram.io/)  
+[Viktor Qvarfordt](https://github.com/ViktorQvarfordt/unicode-latex)
