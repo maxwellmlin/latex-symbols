@@ -10,7 +10,9 @@ A Chrome extension that automatically replaces LaTeX commands in forms with thei
 4. Click `load unpacked` and select the unzipped file
 
 ## Usage
-The extension automatically replaces LaTeX commands in input fields with their unicode equivalent. For example `\alpha` becomes `α` and `\Sigma` becomes `Σ`.
+The extension automatically replaces LaTeX commands in input fields with their unicode equivalent. For example `\alpha` becomes `α` and `\Sigma` becomes `Σ`.  
+
+You can disable/enable the extension by clicking the extension icon.
 
 For a full list of supported commands visit this [file](https://raw.githubusercontent.com/maxwellmlin/latex-symbols/main/js/latex-unicode.js?token=AG4TIGFNSYPH6CCBDMCUXQTA2YKBE).
 
