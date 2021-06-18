@@ -6,7 +6,8 @@ A Chrome extension that automatically replaces LaTeX commands in forms with thei
 ## Install
 1. Download the [latest release](https://github.com/maxwellmlin/latex-symbols/releases) and unzip the file
 2. Go to chrome://extensions
-3. Click `load unpacked` and select the unzipped file
+3. Enable `developer mode`
+4. Click `load unpacked` and select the unzipped file
 
 ## Usage
 The extension automatically replaces LaTeX commands in input fields with their unicode equivalent. For example `\alpha` becomes `α` and `\Sigma` becomes `Σ`.
