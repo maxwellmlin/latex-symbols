@@ -12,8 +12,8 @@ toggleElement.addEventListener("click", () => {
 
 // Open links in new tab
 document.addEventListener("DOMContentLoaded", () => {
-  const links = document.getElementsByTagName("a")
-  Array.from(links).forEach(link => {
+  const links = document.querySelectorAll("a")
+  links.forEach(link => {
     const location = link.href
     link.addEventListener("click", () => {
       chrome.tabs.create({
