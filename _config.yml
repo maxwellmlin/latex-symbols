@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+title: LaTeX Symbols
+tagline: LaTeX Symbols Chrome Extension
+description: A Chrome extension that automatically replaces LaTeX commands in forms with their unicode equivalent.
+url: https://maxwellmlin.github.io/latex-symbols/
+
+logo: https://maxwellmlin.github.io/latex-symbols/icons/favicon-128.png?raw=true
+show_downloads: true
