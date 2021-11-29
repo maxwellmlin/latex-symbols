@@ -15,4 +15,4 @@ You can disable/enable the extension by clicking the extension icon.
 For a full list of supported commands visit this [file](https://raw.githubusercontent.com/maxwellmlin/latex-symbols/main/js/latex-unicode.js?token=AG4TIGFNSYPH6CCBDMCUXQTA2YKBE).
 
 ## Acknowledgements
-[Viktor Qvarfordt](https://github.com/ViktorQvarfordt/unicode-latex)
+[Unicode LaTeX](https://github.com/ViktorQvarfordt/unicode-latex)
