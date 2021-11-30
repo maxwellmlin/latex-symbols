@@ -1,6 +1,6 @@
 const latexEntries = Object.entries(latex_unicode)
 
-document.querySelectorAll("input").forEach(item => {
+document.querySelectorAll("input, textarea").forEach(item => {
   item.addEventListener("input", latexToUnicode)
 })
 
