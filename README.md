@@ -2,7 +2,7 @@
 A Chrome extension that automatically replaces LaTeX commands in forms with their unicode equivalent. Helpful for science/math essays and online calculators.
 
 ## Install
-1. Download the [latest release](https://github.com/maxwellmlin/edpuzzle-skip/zipball/main) and unzip the file
+1. Download the [latest release](https://github.com/maxwellmlin/latex-symbols/zipball/main) and unzip the file
 2. Go to chrome://extensions
 3. Enable `developer mode`
 4. Click `load unpacked` and select the unzipped file
